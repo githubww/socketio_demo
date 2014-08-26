@@ -1,6 +1,6 @@
 ## Demo for PhoneGap Websocket Plugin
 
-This project is a demo which demonstrates how to use the [plugin](https://github.com/mkuklis/phonegap-websocket). The demo is based on socket.io.
+This project is a demo (revised to make it working on lates socket.io and iOS 7, the original demo is at https://bitbucket.org/mkuklis/phonegap-websocket-demo/overview) which demonstrates how to use the [plugin](https://github.com/mkuklis/phonegap-websocket). The demo is based on socket.io.
 
 ## Server Setup
 
@@ -13,6 +13,13 @@ This project is a demo which demonstrates how to use the [plugin](https://github
 - zip up 'www' directory
 - upload to phonegap build
 - download and install
+
+
+## Devices (Not simulators) Verified working
+
+- iPad   3,4 @ iOS 7.1.2
+- iPhone 3,3 @ iOS 7.1.2
+- SamSung phone SCH-I510 (Droid Charge) @ Android 2.3.6
 
 
 ## Issues
