@@ -1,0 +1,12 @@
+{
+  "name": "demoSocketIO",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "express": "^4.5.1",
+    "socket.io": "^1.0.6"
+  }
+}
