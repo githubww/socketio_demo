@@ -17,7 +17,7 @@ This project is a demo which demonstrates how to use the [plugin](https://github
 
 ## Devices (Not simulators) Verified working
 
-- iPad   3,4 @ iOS 7.2.1
+- iPad   3,4 @ iOS 7.1.2
 - iPhone 3,3 @ iOS 7.1.2
 - SamSung phone SCH-I510 (Droid Charge) @ Android 2.3.6
 
