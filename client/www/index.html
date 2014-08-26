@@ -24,9 +24,9 @@
           function init() {
 
             loadScript('js/socket.io.js', function () {
-            //works as well:: loadScript('http://uvlit.com:55080/socket.io/socket.io.js', function () {
+            //works as well:: loadScript('http://example.com:8080/socket.io/socket.io.js', function () {
 
-              var socket = io.connect("http://uvlit.com:55080");
+              var socket = io.connect("http://example.com:8080");
 
               document.getElementById('log').innerHTML = "connecting";
 
