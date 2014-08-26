@@ -10,8 +10,8 @@
           4. https://build.phonegap.com/plugins/478
           5. https://github.com/mkuklis/phonegap-websocket/tree/b7cc3bf50e2aa83bb70ffaf40cfb017c219b7bdc
     </description>
-    <author email="support@uvlit.com" href="http://uvlit.com">
-        UVLit Team
+    <author email="support@suresome.com" href="http://suresome.com">
+        Suresome Team
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
     <preference name="permissions" value="none" />
